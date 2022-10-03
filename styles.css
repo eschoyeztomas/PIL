@@ -1,0 +1,13 @@
+.box-container {
+    background-color: black;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+
+}
+
+.content-about {
+    justify-content: center;
+}
