@@ -1,0 +1,14 @@
+#contact{
+    background: rgb(0, 97, 177);
+    color: white;
+    padding: 20px;
+}
+
+#contact h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#contact p{
+    text-align: center;
+}
